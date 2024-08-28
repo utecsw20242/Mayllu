@@ -1,9 +1,5 @@
 # mayllu
 
-Integrantes: 
-
--> Gabriel Blanco
-
 ```cpp
 
 jiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
