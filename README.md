@@ -187,7 +187,7 @@ int main() {
   record_manager.print_metadata();
 
   cout << sizeof(streampos) << endl;
-  return 1;
+  return 0;
 };
 ```
 
