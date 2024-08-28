@@ -1,0 +1,4 @@
+1. Listar los cursos disponibles de acuerdo a su progreso académico y restringir la cantidad de créditos de acuerdo
+a lo propuesto por la universidad.
+
+2. El turno de matrícula se maneje del lado del servidor y se muestre al usuario.
