@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 1. Registro de Estudiantes
 2. Gestión de Cursos
 3. Gestión de Horarios Disponibles de profesores
@@ -9,11 +8,10 @@
 8. Correcta muestra de los cursos que se puede llevar, (Si el estudiante ha pasado los cursos requisito)
 9. Gestión de Lista de Espera
 10. Notificaciones en el turno de matrícula
-=======
+
 Conflicto WR: Puede existir problema cuando un alumno se matricula antes que otro sin guardar los cambios puesto que la matrícula válida es la que ha sido guardada
 Conflicto WW: Si dos alumnos guardan la matrícula de modo automático es posible que la información final contenga errores.
 Conflicto RW: La información leída puede resultar incorrecta cuando existe una edición realizada mientras alguien entra en modo lectura por un tiempo prolongado dejando a esta persona con una versión desactualizada de la base de datos.
 
 
 No permitir entrar a la matrícula si no es el turno en el que al alumno le esta permitido ingresar
->>>>>>> 5aa2293 (useCases)
