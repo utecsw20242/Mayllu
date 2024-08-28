@@ -1,0 +1,8 @@
+Sobrecarga del sistema: Durante el período de matrícula, miles de estudiantes intentan matricularse simultáneamente, lo que podría sobrecargar el sistema y causar fallos.
+
+
+Conflicto de requisitos previos: Un estudiante se matricula en un curso sin cumplir los requisitos previos, y el sistema no lo detecta correctamente.
+
+
+Doble inscripción en el mismo curso: Un estudiante, debido a un error del sistema, aparece matriculado en dos secciones del mismo curso.
+
