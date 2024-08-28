@@ -1,0 +1,10 @@
+1. Registro de Estudiantes
+2. Gestión de Cursos
+3. Gestión de Horarios Disponibles de profesores
+4. Proceso de Matrícula
+5. Contador en Tiempo Real para poder ingresar a la matrícula
+6. Pagos
+7. Carga de cursos llevados 1ra, 2da, 3ra vez para que el estudiante pueda visualizar
+8. Correcta muestra de los cursos que se puede llevar, (Si el estudiante ha pasado los cursos requisito)
+9. Gestión de Lista de Espera
+10. Notificaciones en el turno de matrícula
