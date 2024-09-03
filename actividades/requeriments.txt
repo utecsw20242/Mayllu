@@ -1,0 +1,10 @@
+1. Listar los cursos disponibles de acuerdo a su progreso académico y restringir la cantidad de créditos de acuerdo
+a lo propuesto por la universidad.
+
+2. El turno de matrícula se maneje del lado del servidor y se muestre al usuario.
+
+3. Visualizar el cruce de horarios y no permitir la matrícula
+
+4. Brindar la opción de descargar en PDF el consolidado de matrícula
+
+5. No permitir el inicio de sesión después de tu turno de matrícula

@@ -1,0 +1,13 @@
+Sobrecarga del sistema: Durante el período de matrícula, miles de estudiantes intentan matricularse simultáneamente, lo que podría sobrecargar el sistema y causar fallos.
+
+Conflicto de requisitos previos: Un estudiante se matricula en un curso sin cumplir los requisitos previos, y el sistema no lo detecta correctamente.
+
+Doble inscripción en el mismo curso: Un estudiante, debido a un error del sistema, aparece matriculado en dos secciones del mismo curso.
+
+Errores en el procesamiento de pagos: Un estudiante realiza el pago, pero debido a un error técnico, el pago no se registra en el sistema, lo que podría impedirle completar su matrícula.
+
+Cambios de última hora en los cursos: Un curso es cancelado o cambiado después de que los estudiantes ya se han matriculado, causando conflictos en sus horarios.
+
+Estudiantes con necesidades especiales: El sistema debe manejar casos en los que estudiantes con discapacidades necesitan soporte adicional para matricularse.
+
+Cursos con múltiples modalidades: Cursos que se ofrecen tanto en modalidad presencial como virtual, y los estudiantes deben poder elegir entre ellas sin problemas.
