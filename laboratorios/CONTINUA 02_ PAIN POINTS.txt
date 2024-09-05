@@ -1,0 +1,22 @@
+﻿CONTINUA 02:
+
+* IDENTIFICAR 6 PAIN POINTS DE SUS USUARIOS MODELO
+* HACER EL PRIMER PROTOTIPO DE SU SOLUCIÓN
+
+
+
+
+6 PAIN POINTS ENCONTRADOS:
+* Baja calidad de las vías urbanas: Los usuarios,  reportan problemas con ciclovías dañadas y otras infraestructuras deterioradas en la ciudad.
+* Demoras en la respuesta a los reportes: Los usuarios esperan soluciones rápidas, pero no siempre las obtienen.
+* Falta de seguimiento efectivo de los reportes: No hay una forma fácil de monitorear el estado de los incidentes reportados.
+* Usabilidad y experiencia de usuario deficiente: La interfaz de la aplicación puede ser confusa o difícil de navegar, especialmente para usuarios con menor habilidad tecnológica.
+* Falta de recompensas por la participación: No existe un sistema que incentive a los usuarios a participar activamente reportando problemas.
+* Problemas de accesibilidad y compatibilidad: La aplicación debe funcionar correctamente en diversos dispositivos y ser accesible para personas con diferentes habilidades.
+PROTOTIPO SOLUCIÓN
+* Interfaz de reporte amigable y rápida: Crear una pantalla inicial donde los usuarios puedan rápidamente reportar problemas en menos de 3 clics, utilizando formularios simplificados y con la opción de adjuntar fotos del incidente.
+* Sistema de recompensas: Implementar un sistema de puntos donde los usuarios ganan recompensas por la cantidad y calidad de los reportes realizados. Este sistema será visible en un apartado de “Ranking” en la aplicación.
+* Mapa de calor con geolocalización: Desarrollar un mapa interactivo que muestre las zonas con más reportes de incidentes urbanos, categorizados por tipo de problema (huecos en la calle, basura acumulada, etc.) usando diferentes íconos.
+* Notificaciones automáticas de seguimiento: Integrar un sistema de notificaciones que informe al usuario sobre el progreso de su reporte, desde la recepción hasta la solución. Esto generará confianza y motivará a los usuarios a seguir utilizando la aplicación.
+* Diseño intuitivo y accesible: Crear un diseño con una estructura similar a las redes sociales (como Facebook) para facilitar su adopción. Incorporar opciones de temas (oscuro y claro) y garantizar que la interfaz sea accesible para usuarios con discapacidades visuales, auditivas, etc.
+* Compatibilidad multiplataforma: Asegurar que la aplicación sea compatible tanto con Android como con iOS, utilizando tecnologías como React Native para garantizar una experiencia consistente en todos los dispositivos.
