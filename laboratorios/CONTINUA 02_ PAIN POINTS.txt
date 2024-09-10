@@ -3,6 +3,9 @@
 * IDENTIFICAR 6 PAIN POINTS DE SUS USUARIOS MODELO
 * HACER EL PRIMER PROTOTIPO DE SU SOLUCIÓN
 
+Integrantes:
+
+
 
 
 
@@ -19,4 +22,4 @@ PROTOTIPO SOLUCIÓN
 * Mapa de calor con geolocalización: Desarrollar un mapa interactivo que muestre las zonas con más reportes de incidentes urbanos, categorizados por tipo de problema (huecos en la calle, basura acumulada, etc.) usando diferentes íconos.
 * Notificaciones automáticas de seguimiento: Integrar un sistema de notificaciones que informe al usuario sobre el progreso de su reporte, desde la recepción hasta la solución. Esto generará confianza y motivará a los usuarios a seguir utilizando la aplicación.
 * Diseño intuitivo y accesible: Crear un diseño con una estructura similar a las redes sociales (como Facebook) para facilitar su adopción. Incorporar opciones de temas (oscuro y claro) y garantizar que la interfaz sea accesible para usuarios con discapacidades visuales, auditivas, etc.
-* Compatibilidad multiplataforma: Asegurar que la aplicación sea compatible tanto con Android como con iOS, utilizando tecnologías como React Native para garantizar una experiencia consistente en todos los dispositivos.
+* Compatibilidad multiplataforma: Asegurar que la aplicación sea compatible tanto con Android como con iOS, utilizando tecnologías como React Native para garantizar una experiencia consistente en todos los dispositivos. 
