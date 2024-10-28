@@ -1,0 +1,71 @@
+{
+  "uuid": "0a49957d-a44e-4641-85dd-c14190199cff",
+  "lastMigration": 27,
+  "name": "Pokemon Mock API",
+  "port": 3000,
+  "routes": [
+    {
+      "uuid": "ditto-route",
+      "method": "get",
+      "endpoint": "pokemon/ditto",
+      "responses": [
+        {
+          "uuid": "response-1",
+          "body": "{\n  \"name\": \"ditto\",\n  \"height\": 3,\n  \"weight\": 40,\n  \"types\": [\n    {\n      \"type\": {\n        \"name\": \"normal\"\n      }\n    }\n  ]\n}",
+          "latency": 0,
+          "statusCode": 200,
+          "headers": [
+            {
+              "key": "Content-Type",
+              "value": "application/json"
+            }
+          ],
+          "rules": [
+            {
+              "target": "url",
+              "modifier": "match",
+              "value": "ditto",
+              "operator": "equals"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "force400-route",
+      "method": "get",
+      "endpoint": "pokemon/force400",
+      "responses": [
+        {
+          "uuid": "400-response",
+          "statusCode": 400,
+          "body": "{\n  \"status\": \"error\",\n  \"code\": 400,\n  \"message\": \"Bad Request\",\n  \"details\": {\n    \"reason\": \"Solicitud mal formada o inválida\",\n    \"suggestion\": \"Verifique el formato de la solicitud\",\n    \"timestamp\": \"{{now 'iso'}}\"\n  }\n}",
+          "headers": [
+            {
+              "key": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uuid": "force500-route",
+      "method": "get",
+      "endpoint": "pokemon/force500",
+      "responses": [
+        {
+          "uuid": "500-response",
+          "statusCode": 500,
+          "body": "{\n  \"status\": \"error\",\n  \"code\": 500,\n  \"message\": \"Internal Server Error\",\n  \"details\": {\n    \"reason\": \"Error interno del servidor\",\n    \"suggestion\": \"Intente nuevamente más tarde\",\n    \"timestamp\": \"{{now 'iso'}}\",\n    \"traceId\": \"{{faker 'string.uuid'}}\"\n  }\n}",
+          "headers": [
+            {
+              "key": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
